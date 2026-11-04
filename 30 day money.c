@@ -1,3 +1,5 @@
+// 30 days money comparison program
+
 #include <stdio.h>
 
 int main() 
